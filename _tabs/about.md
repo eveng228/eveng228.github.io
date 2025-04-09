@@ -2,7 +2,7 @@
 # The default layout is 'page'
 title: About
 icon: info
-order: 2
+order: 1
 ---
 
 Hi, I'm Ben Gaunt 👋
