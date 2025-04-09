@@ -7,7 +7,7 @@ order: 1
 
 Hi, I'm Ben Gaunt 👋
 
-This blog is where I share notes, thoughts, and updates on tech, networking, home lab experiments, and anything else I’m geeking out on.
+This blog is where I share notes, thoughts, and updates on design & technology, art, music and anything else I’m working out on.
 
 More to come soon — thanks for visiting!
 
